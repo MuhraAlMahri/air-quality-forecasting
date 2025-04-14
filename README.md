@@ -2,20 +2,20 @@
 
 This project forecasts PM10 air pollution levels in **Abu Dhabi** and **Dubai** using both classical and probabilistic time series models. We implement and compare **ARIMA** and **Gaussian Process Regression (GPR)** to not only predict pollutant concentrations, but also quantify forecast uncertainty—an essential aspect of environmental risk analysis.
 
-<br>
 
 ## 📁 Project Structure
+
 ├── notebooks/
 │   └── ML_project_completed.ipynb       ← main notebook
 ├── report/
 │   └── Air_Quality_Report.docx          ← detailed writeup
 ├── data/
-│   ├── average-of-air-pollutants…xlsx ← raw dataset
+│   ├── average-of-air-pollutants-concentration-2011-2022.xlsx  ← raw dataset
 │   └── Interpolated_PM10_Levels.csv     ← cleaned/interpolated data
 ├── requirements.txt                     ← dependencies
 └── README.md                            ← this file
 
-<br>
+
 
 ## 📈 Dataset
 
@@ -64,11 +64,11 @@ This project forecasts PM10 air pollution levels in **Abu Dhabi** and **Dubai** 
 4. Run the notebook:
    jupyter notebook notebooks/ML_project_completed.ipynb
 
-##📚 References
+## 📚 References
 	•	Rasmussen, C.E., & Williams, C.K.I. (2006). Gaussian Processes for Machine Learning. MIT Press.
 	•	Hyndman, R.J., & Athanasopoulos, G. (2018). Forecasting: Principles and Practice.
 	•	UAE Federal Competitiveness and Statistics Center (2022)
 
 
-##✨ Developed by Ayesha Alhammadi and Muhra AlMahri
+## ✨ Developed by Ayesha Alhammadi and Muhra AlMahri
 ## 📘 Course: ML703 – Probabilistic and Statistical Inference, Spring 2025
