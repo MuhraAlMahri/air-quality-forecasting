@@ -55,13 +55,16 @@ This project forecasts PM10 air pollution levels in **Abu Dhabi** and **Dubai** 
    cd air-quality-forecasting
    
 2.	Create a virtual environment (optional but recommended):
+```bash
    python -m venv venv
    source venv/bin/activate  # or venv\Scripts\activate on Windows
 
-3.	Install dependencies:
+4.	Install dependencies:
+```bash
    pip install -r requirements.txt
 
-4. Run the notebook:
+5. Run the notebook:
+```bash
    jupyter notebook notebooks/ML_project_completed.ipynb
 
 ## 📚 References
