@@ -57,11 +57,9 @@ This project forecasts PM10 air pollution levels in **Abu Dhabi** and **Dubai** 
 ```bash
    python -m venv venv
    source venv/bin/activate  # or venv\Scripts\activate on Windows
-
 3. Install dependencies:
 ```bash
    pip install -r requirements.txt
-
 4. Run the notebook:
 ```bash
    jupyter notebook notebooks/ML_project_completed.ipynb
