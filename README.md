@@ -4,7 +4,7 @@ This project forecasts PM10 air pollution levels in **Abu Dhabi** and **Dubai** 
 
 
 ## 📁 Project Structure
-
+```
 ├── notebooks/
 │   └── ML_project_completed.ipynb       ← main notebook
 ├── report/
@@ -14,7 +14,7 @@ This project forecasts PM10 air pollution levels in **Abu Dhabi** and **Dubai** 
 │   └── Interpolated_PM10_Levels.csv     ← cleaned/interpolated data
 ├── requirements.txt                     ← dependencies
 └── README.md                            ← this file
-
+```
 
 
 ## 📈 Dataset
