@@ -10,12 +10,7 @@ air-quality-forecasting/
 ├── README.md                     ← Project summary, motivation, models
 ├── requirements.txt              ← Dependencies (e.g., numpy, matplotlib, pymc, etc.)
 ├── ML703_air_quality.ipynb      ← Main notebook (clean, commented)
-├── figures/                      ← Forecast plots, trace plots, etc.
-│   └── arima-forecast.png
-│   └── bsts-forecast.png
-│   └── gpr-forecast.png
-├── data/
-│   └── pm25_delhi.csv            ← Cleaned version (optional)
+├── air-quality-india.csv         ← Cleaned version (optional)
 ```
 
 
