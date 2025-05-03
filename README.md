@@ -20,7 +20,7 @@ Our objective is to compare these models in terms of predictive accuracy and the
 
 ## 📊 Dataset
 
-- **Source**: [OpenAQ](https://openaq.org/) via [Kaggle](https://www.kaggle.com/)
+- **Source**: [Kaggle](https://www.kaggle.com/)
 - **Location**: Anand Vihar monitoring station, Delhi, India
 - **Timeframe**: 2004–2019
 - **Features**: Hourly PM2.5 measurements
