@@ -70,16 +70,6 @@ Our objective is to compare these models in terms of predictive accuracy and the
 | BSTS    | 4.35  | 3.43  |
 | GPR     | 16.00 | 15.39 |
 
-### Visualizations
-
-![ARIMA Forecast](figures/arima_forecast.png)  
-*ARIMA model forecast without uncertainty intervals.*
-
-![BSTS Forecast](figures/bsts_forecast.png)  
-*BSTS model forecast with 95% credible intervals.*
-
-![GPR Forecast](figures/gpr_forecast.png)  
-*GPR model forecast with confidence intervals.*
 
 ---
 
