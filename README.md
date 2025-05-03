@@ -5,15 +5,17 @@ This project forecasts PM10 air pollution levels in **Abu Dhabi** and **Dubai** 
 
 ## 📁 Project Structure
 ```
-├── notebooks/
-│   └── ML_project_completed.ipynb       ← main notebook
-├── report/
-│   └── Air_Quality_Report.docx          ← detailed writeup
+air-quality-forecasting/
+│
+├── README.md                     ← Project summary, motivation, models
+├── requirements.txt              ← Dependencies (e.g., numpy, matplotlib, pymc, etc.)
+├── ML703_air_quality.ipynb      ← Main notebook (clean, commented)
+├── figures/                      ← Forecast plots, trace plots, etc.
+│   └── arima-forecast.png
+│   └── bsts-forecast.png
+│   └── gpr-forecast.png
 ├── data/
-│   ├── average-of-air-pollutants-concentration-2011-2022.xlsx  ← raw dataset
-│   └── Interpolated_PM10_Levels.csv     ← cleaned/interpolated data
-├── requirements.txt                     ← dependencies
-└── README.md                            ← this file
+│   └── pm25_delhi.csv            ← Cleaned version (optional)
 ```
 
 
