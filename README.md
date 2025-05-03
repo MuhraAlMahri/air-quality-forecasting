@@ -110,7 +110,6 @@ Our objective is to compare these models in terms of predictive accuracy and the
 ```
 air-quality-forecasting/
 ├── data/                   # Contains the dataset
-├── figures/                # Generated plots and figures
 ├── notebooks/              # Jupyter notebooks for analysis
 ├── requirements.txt        # List of required Python packages
 └── README.md               # Project overview and documentation
