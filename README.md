@@ -1,6 +1,11 @@
 # 🌫️ Probabilistic Air Quality Forecasting with Bayesian Inference
 
-This project forecasts PM10 air pollution levels in **Abu Dhabi** and **Dubai** using both classical and probabilistic time series models. We implement and compare **ARIMA** and **Gaussian Process Regression (GPR)** to not only predict pollutant concentrations, but also quantify forecast uncertainty—an essential aspect of environmental risk analysis.
+This project focuses on forecasting PM2.5 air pollution levels in Delhi using three distinct time series models:
+	•	ARIMA: A classical statistical model for time series forecasting.
+	•	Bayesian Structural Time Series (BSTS): A probabilistic model that incorporates uncertainty estimation.
+	•	Gaussian Process Regression (GPR): A non-parametric model capable of capturing complex, non-linear relationships.
+
+Our objective is to compare these models in terms of predictive accuracy and their ability to quantify uncertainty, which is crucial for public health decision-making.
 
 
 ## 📁 Project Structure
