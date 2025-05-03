@@ -1,8 +1,16 @@
-numpy
-pandas
-matplotlib
-scikit-learn
-statsmodels
-scipy
-gpflow
-jupyter
+# Core dependencies
+numpy>=1.23.0
+pandas>=1.5.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Forecasting models
+statsmodels>=0.13.0         # For ARIMA/SARIMA
+pymc>=5.5.0                 # For BSTS via Bayesian modeling
+arviz>=0.15.0               # For BSTS trace plots
+
+# Scikit-learn for GPR
+scikit-learn>=1.2.0
+
+# Optional: time parsing and warnings
+dateparser>=1.1.1
